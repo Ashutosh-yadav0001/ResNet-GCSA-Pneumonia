@@ -1,0 +1,40 @@
+# Virtual environment
+PneumoFusion-Net/
+
+# Dataset (too large for GitHub)
+Data/
+data/
+dataset/
+datasets/
+
+# Model weights
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archives
+*.zip
+*.rar
+
+# OS
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Temp scripts
+gen_notebook.py
+gen_kaggle_nb.py
+gen_both.py
+add_install.py
+read_nb.py
+split_data.py
+verify.py
